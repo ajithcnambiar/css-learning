@@ -1,0 +1,18 @@
+p{
+    color: brown;
+    font-size: 20px
+}
+
+div{
+    color: yellowgreen;
+    font-size: 20px
+}
+
+body{
+    /* background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    background-color:black; */
+    background: aqua url(image.png) top no-repeat
+}

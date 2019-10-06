@@ -1,0 +1,20 @@
+
+#first_element { 
+    position: relative; 
+    left: 30px; 
+    top: 40px; 
+    width: 500px; 
+    background-color: #fafafa; 
+    border: solid 3px #ff7347; 
+    font-size: 24px; 
+    text-align: center;
+    z-index: -1;
+  } 
+  #second_element { 
+    position: relative; 
+    width: 50px; 
+    background-color: #fafafa; 
+    border: solid 3px #5347ff; 
+    font-size: 24px; 
+    text-align: center; 
+  }

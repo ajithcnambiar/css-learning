@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Notable&display=swap');
+
+body{
+    background:bisque;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    background: red;
+    color: blue
+}
+.highlight{
+    background: yellow
+}
+.fromHalf{
+    text-align: center
+}
+.applygooglefont{
+    font-family: 'Notable', sans-serif;
+    font-size: 3em;
+}
+li.whiteContact{
+    color: white
+}
+section{
+    background: aliceblue
+}
+footer{
+    background: darkgrey;
+    color: white
+}

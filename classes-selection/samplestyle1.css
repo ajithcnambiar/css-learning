@@ -1,0 +1,13 @@
+.green1{
+    color:green;
+    background-color:red
+}
+.green2{
+    color: #00FF00
+}
+.green3{
+    color: rgb(0,255,0)
+}
+.green4{
+    color: rgba(0,255,0,0.5)
+}
